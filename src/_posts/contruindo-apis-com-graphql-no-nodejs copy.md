@@ -1,5 +1,5 @@
 ---
-title: "Construindo Testes"
+title: "Construindo APIs com GraphQL no Node.js"
 description: "No post de hoje criaremos um servidor simples com GraphQL e Express.js, mas que servira de base para estruturas mais complexas."
 thumbnail_bg: "#121214"
 ---
